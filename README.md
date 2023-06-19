@@ -1,1 +1,1 @@
-# Exercise gor cyberprotect
+# Exercise for cyberprotect
